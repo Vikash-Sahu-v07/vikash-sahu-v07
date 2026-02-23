@@ -48,7 +48,7 @@
 🔹 Implemented interactive slicers (Year & Month)  
 🔹 Created Revenue Trend Analysis (YoY)
 
-👉 Repository: https://github.com/YOUR_USERNAME/sales-insights-powerbi-project
+👉 Repository: https://github.com/vikash-sahu-v07/sales-insights-powerbi-project
 
 ---
 
