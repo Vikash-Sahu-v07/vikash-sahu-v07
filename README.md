@@ -48,33 +48,21 @@ https://github.com/Vikash-Sahu-V07/sales-insights-powerbi-project
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikash-Sahu-V07&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikash-Sahu-V07&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Vikash-Sahu-V07&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+# 📈 My Core Strength Areas
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vikash-Sahu-V07&theme=onedark&no-frame=true&margin-w=8&margin-h=8"/>
-</p>
+Instead of auto language stats (which may fail), highlighting skill focus manually:
 
----
-
-# 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash-Sahu-V07&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
-
-# 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+- SQL (Joins, Aggregations, Filtering)
+- Power BI (DAX, Data Modeling, Dashboarding)
+- Excel (Advanced Formulas, Pivot Tables)
+- Data Cleaning & Transformation
+- Business KPI Design
 
 ---
 
@@ -86,8 +74,9 @@ To secure a Data Analyst role where I can apply analytical thinking, technical e
 
 # 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/vikash-sahu-v07/
-📧 Email: Vikash.Sahu.V07@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/vikash-sahu-v07/  
+📧 Email: vikash.sahu.v07@gmail.com  
+
 ---
 
 ⭐ Thanks for visiting my profile!
